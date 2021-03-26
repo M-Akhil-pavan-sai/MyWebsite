@@ -5,7 +5,7 @@ This is a basic website of my resume created using html css.
 
 
 Here is the image of website
-![MyWebsite](https://github.com/Sreehith128/MyWebsite/blob/master/MyWebsite.png)
+![MyWebsite](https://github.com/M-Akhil-pavan-sai/MyWebsite/blob/master/MyWebsite.png)
 
 
 
